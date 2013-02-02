@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe AccessingClassHierarchyProtocol do
+describe AccessingClassHierarchyProtocol::Protocol do
 
   describe '.all_subclasses' do
 
